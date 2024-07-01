@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mohammadsadegh! 👋
 
 Welcome to my GitHub profile! I'm a computer engineering student at KNTU, Tehran. I have a deep passion for computers and technology, and I'm constantly exploring new ways to innovate and create.
 

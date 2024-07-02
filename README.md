@@ -20,11 +20,8 @@ Welcome to my GitHub profile! I'm a computer engineering student at KNTU, Tehran
 - **HTML/CSS**
 
 ### Frameworks & Libraries
-- **React**
-- **Node.js**
-- **Express.js**
-- **Django**
-- **Flask**
+- **Spring boot**
+- **Asp.net**
 
 ### Tools & Platforms
 - **Git & GitHub**

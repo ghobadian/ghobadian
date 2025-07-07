@@ -14,4 +14,6 @@
 - **LinkedIn:** [@ghobadian](https://www.linkedin.com/in/ghobadian/)
 
 
-## **Talk is cheap. Checkout my [code](https://github.com/ghobadian)**
+## **Talk is cheap. Checkout my [code](https://github.com/ghobadian?tab=repositories)**
+
+

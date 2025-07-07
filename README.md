@@ -10,7 +10,7 @@
 
 ## 💬 Let's Connect
 
-- **Email:** [msghobadian80@gmail.com](mailto:kooshaghobadian@gmail.com)
+- **Email:** [kooshaghobadian@gmail.com](mailto:kooshaghobadian@gmail.com)
 - **LinkedIn:** [@ghobadian](https://www.linkedin.com/in/ghobadian/)
 
 
